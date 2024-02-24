@@ -22,7 +22,7 @@
 | [Hypercycle](https://www.hypercycle.ai/) | Lead Auditor | ERC721, Marketplace, Staking | 495 | [📄](https://wp.hacken.io/wp-content/uploads/2023/11/Hypercycle_SC-Audit-Report_30052023_SA-1327.pdf) |
 | [Paribus](https://paribus.io/) | Lead Auditor | Lending Platform | 3000 | [📄](https://wp.hacken.io/wp-content/uploads/2022/06/Paribus_SC-Audit-Report_13032023_SA-908-3.pdf) |
 | [Crypto Real Estate](https://www.creproject.com/) | Lead Auditor | ERC20 | 200 | [📄](https://wp.hacken.io/wp-content/uploads/2023/05/CRE_SC-Audit-Report_23052023_SA-1322.pdf) |
-| [Catgirl](https://catgirl.io/) | Lead Auditor | Marketplace | 1370 | [📄](https://wp.hacken.io/wp-content/uploads/2022/06/Paribus_SC-Audit-Report_13032023_SA-908-3.pdf) |
+| [Catgirl](https://catgirl.io/) | Lead Auditor | Marketplace | 1370 | [📄](https://wp.hacken.io/wp-content/uploads/2023/05/Catgirl_SC-Audit-Report_19052023_SA-1079-1.pdf) |
 | [InQubeta](https://inqubeta.ai/) | Lead Auditor | ERC20 | 193 | [📄](https://wp.hacken.io/wp-content/uploads/2023/05/Inqubeta_SC-Audit-Report_19052023_SA-1307-1.pdf) |
 | [Angel Block](https://angelblock.io/) | Lead Auditor | Staking | 758 | [📄](https://wp.hacken.io/wp-content/uploads/2023/05/Angel_Block_SC-Audit-Report_18052023_SA-1147.pdf) |
 | [Cinch Protocol](https://www.cinchprotocol.io/) | Lead Auditor | Yield Farming | 393 | [📄](https://wp.hacken.io/wp-content/uploads/2023/05/Cinch_Protocol_SC-Audit-Report_12052023_SA-1135.pdf) |
