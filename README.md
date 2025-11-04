@@ -1,16 +1,3 @@
-## Security portfolio
-
-### Highlights of audits done in contests platforms
-
-| Platform | Protocol | Place | Findings | Report |
-| - | - | :-: | - | :-: |
-| Sherlock| Kwenta | 1st | 1 High | [📄](https://audits.sherlock.xyz/contests/493/report) |
-| Sherlock| Velocimeter | 3rd | 5 High, 5 Medium (1 Solo) | [📄](https://audits.sherlock.xyz/contests/442/report) |
-| Sherlock| Mellow | 4th | 2 Medium | [📄](https://audits.sherlock.xyz/contests/423/report) |
-| Code4rena| Predy | 2nd | 2 High, 1 Medium | [📄](https://code4rena.com/reports/2024-05-predy) |
-| Code4rena| Ethena Labs | 6th | 2 Medium | [📄](https://code4rena.com/reports/2023-10-ethena) |
-| Code4rena| Basin | 7th | 1 High | [📄](https://code4rena.com/reports/2023-07-basin) |
-
 ### Audits done during employment in Hacken
 
 | Protocol | Role | Category | LoC | Report |
